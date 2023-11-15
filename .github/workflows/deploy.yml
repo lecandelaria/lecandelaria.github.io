@@ -35,6 +35,8 @@ jobs:
         value: ${{ github.repository }}
     - name: Install and Build 🔧
       run: |
+        gem install bundler
+        bundle install
         pip install yml
         pip install upgrade-pip
         pip install webencodings
