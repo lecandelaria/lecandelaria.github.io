@@ -42,7 +42,7 @@ jobs:
         export JEKYLL_ENV=production
         gem install listen
         bundle install
-        bundle exec jekyll build --lsi
+        bundle exec jekyll build --lsi --no-watch
         purgecss -c purgecss.config.js
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
