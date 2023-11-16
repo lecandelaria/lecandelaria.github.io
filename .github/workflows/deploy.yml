@@ -40,6 +40,8 @@ jobs:
         npm install -g mermaid.cli
         npm install -g purgecss
         export JEKYLL_ENV=production
+        gem install listen -v '3.7.3' # Install Listen gem
+        bundle install
         bundle exec jekyll build --lsi --no-watch
         purgecss -c purgecss.config.js
     - name: Deploy 🚀
