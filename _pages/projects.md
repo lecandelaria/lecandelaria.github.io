@@ -17,14 +17,14 @@ nav_order: 1
 <h3>Working Papers</h3>
 
 
-[Robust Inference for Locally Misspecified Bipartite Networks](https://www.dropbox.com/scl/fi/kc2vslq1q3q3b9p6gjgte/CandelariaZhang2023.pdf?rlkey=o0z7bkxec4tz8pd3m4zrfadmb&dl=0), with <a href="https://faculty.smu.edu.sg/profile/yichong-zhang-1521" target="_blank">Yichong Zhang</a>
+[Robust Inference for Locally Misspecified Bipartite Networks](../papers/CandelariaZhang2023.pdf), with <a href="https://faculty.smu.edu.sg/profile/yichong-zhang-1521" target="_blank">Yichong Zhang</a>
 
 Abstract:
 
 <p dir="ltr" align="justify">This paper introduces a new methodology to conduct robust inference in bipartite networks under local misspecification. We focus on a class of dyadic network models with misspecified conditional moment restrictions.The misspecification framework is local; that is, the magnitude of local misspecification vanishes as the sample size grows. We utilize this local asymptotic approach to construct a minimax optimal robust estimator that attains the shortest confidence intervals within a misspecification neighborhood. Additionally, we introduce bias-aware confidence intervals that account for the effect of the local misspecification. These confidence intervals are asymptotically valid for the structural parameter of interest under sparse network asymptotics. Monte Carlo experiments demonstrate that the robust estimator performs well in finite samples and sparse networks. As an empirical illustration,  we study the formation of a scientific collaboration network among economists.</p>
 
 
-[A Semiparametric Network Formation Model with Unobserved Linear Heterogeneity](https://arxiv.org/abs/2007.05403)
+[A Semiparametric Network Formation Model with Unobserved Linear Heterogeneity](../papers/SemNet_2024.pdf)
 
 <em>Submitted</em>
 

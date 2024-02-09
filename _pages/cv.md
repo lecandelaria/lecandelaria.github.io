@@ -41,4 +41,4 @@ Methods. Economic Journal. Journal of Applied Econometrics.</li>
 <li>Deputy coordinator of the Econometrics and Labour Research Group, 2017-2021</li>
 </ul>
 
-PDF version: <a href="../assets/pdf/LEC_CV.pdf" target="_blank">here</a>. 
+PDF version: <a href="../assets/pdf/CV.pdf" target="_blank">here</a>. 
