@@ -16,6 +16,7 @@ nav_order: 1
 
 <h3>Working Papers</h3>
 
+
 <a href="../papers/CandelariaZhang2023.pdf" target="_blank">Robust Inference in Locally Misspecified Bipartite Networks</a>, with <a href="https://faculty.smu.edu.sg/profile/yichong-zhang-1521" target="_blank">Yichong Zhang</a>
 
 Abstract:
