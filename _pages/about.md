@@ -21,6 +21,6 @@ I am an econometrician with a research interest in econometric theory and its em
 
 I hold a PhD in Economics from [Duke University](https://econ.duke.edu/).
 
-You can find my research [here](/Research/) and my cv <a href="../assets/pdf/LEC_CV.pdf" target="_blank">here</a>.
+You can find my research [here](/Research/) and my cv <a href="../assets/pdf/CV.pdf" target="_blank">here</a>.
 
 <p><b>Email</b>: <a href="mailto:%20L.Candelaria@warwick.ac.uk">L.Candelaria@warwick.ac.uk</a></p>
