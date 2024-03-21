@@ -10,7 +10,7 @@ nav_order: 1
 <h3>Published Papers</h3>
 
 <ul style="list-style-type: none; padding-left: 0;">
-<li>[Identification and Inference of Network Formation Games with Misclassified Links](https://www.sciencedirect.com/science/article/pii/S0304407622001531?via%3Dihub), with <a href="https://economics.ucdavis.edu/people/takuya-ura" target="_blank">Takuya Ura</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0304407622001531?via%3Dihub" target="_blank">Identification and Inference of Network Formation Games with Misclassified Links</a>, with <a href="https://economics.ucdavis.edu/people/takuya-ura" target="_blank">Takuya Ura</a></li>
    <ul style="list-style-type: none; padding-left: 0;">
       <li><em>Journal of Econometrics</em>, vol. 235, no. 2, (2023), pp. 862-891.</li>
       <li><a href="https://github.com/lecandelaria/MisclassifiedLinks.git"  target="_blank" style="color: inherit;">Code</a></li>
