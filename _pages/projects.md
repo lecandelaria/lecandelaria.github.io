@@ -14,17 +14,11 @@ nav_order: 1
         <a href="https://www.sciencedirect.com/science/article/pii/S0304407622001531?via%3Dihub" target="_blank">Identification and Inference of Network Formation Games with Misclassified Links</a>, with <a href="https://economics.ucdavis.edu/people/takuya-ura" target="_blank">Takuya Ura</a>
         <ul style="list-style-type: none; padding-left: 0; margin-bottom: 1ex;">
             <li><em>Journal of Econometrics</em>, vol. 235, no. 2, (2023), pp. 862-891.</li>
-            <li>
-                <figure>
-                    <a href="https://github.com/lecandelaria/MisclassifiedLinks.git">
-                        <img src="../assets/img/github-mark-white.png" alt="GitHub Logo" width="50" height="50">
-                        <figcaption>Replication Code</figcaption>
-                    </a>
-                </figure>
-            </li>
+            <li><a href="https://github.com/lecandelaria/MisclassifiedLinks.git" target="_blank" style="color: inherit;">Replication Code</a></li>
         </ul>
     </li>
 </ul>
+
 
 
 
