@@ -35,7 +35,7 @@ nav_order: 1
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 1ex;">
 <li><a href="../papers/SemNet_2024.pdf" target="_blank">A Semiparametric Network Formation Model with Unobserved Linear Heterogeneity</a></li>
    <ul style="list-style-type: none; padding-left: 0; margin-bottom: 1ex;">
-      <li style="margin-bottom: 1.5ex;"><em>Submitted</em></li>
+      <li style="margin-bottom: 1.5ex;"><em>Revise and Resubmit, Econometrics Journal</em></li>
       <li>Abstract:</li>
       <li><p dir="ltr" align="justify">This paper analyzes a semiparametric model of network formation in the presence of unobserved agent-specific heterogeneity. Its objective is to identify and estimate the preference parameters associated with observed homophily when the distribution of the unobserved factors is not parametrically specified. This paper offers two main contributions to the literature on network formation. First, it establishes a new point identification result for the vector of parameters that relies on the existence of a special regressor. The identification proof is constructive and characterizes a closed form for the parameter of interest. Second, it introduces a two-step semiparametric estimator with a first-step kernel estimator. This estimator is consistent and has a limiting normal distribution under sparse network asymptotics. Monte Carlo experiments demonstrate that the estimator performs well in finite samples. Finally, the methodology is implemented to estimate the homophily parameters in a friendship network using the Add Health dataset. </p>
       </li>

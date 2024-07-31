@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:  Assistant Professor in Economics at the <a href='https://warwick.ac.uk/fac/soc/economics/'>University of Warwick</a>.
+subtitle:  Assistant Professor in Economics at the <a href='https://www.ed.ac.uk/economics'>University of Edinburgh</a>.
 
 profile:
   align: right
@@ -23,4 +23,4 @@ I hold a PhD in Economics from [Duke University](https://econ.duke.edu/).
 
 You can find my research [here](/Research/) and my cv <a href="../assets/pdf/CV.pdf" target="_blank">here</a>.
 
-<p><b>Email</b>: <a href="mailto:%20L.Candelaria@warwick.ac.uk">L.Candelaria@warwick.ac.uk</a></p>
+<p><b>Email</b>: <a href="mailto:%20lcandela@warwick.ac.uk">lcandela@ed.ac.uk</a></p>
