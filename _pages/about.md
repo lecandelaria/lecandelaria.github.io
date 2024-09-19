@@ -23,4 +23,4 @@ I hold a PhD in Economics from [Duke University](https://econ.duke.edu/).
 
 You can find my research [here](/Research/) and my cv <a href="../assets/pdf/CV.pdf" target="_blank">here</a>.
 
-<p><b>Email</b>: <a href="mailto:%20lcandela@warwick.ac.uk">lcandela@ed.ac.uk</a></p>
+<p><b>Email</b>: <a href="mailto:%20lcandela@warwick.ac.uk">l.candelaria@ed.ac.uk</a></p>
