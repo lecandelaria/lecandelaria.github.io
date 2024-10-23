@@ -44,4 +44,4 @@ nav_order: 1
 
 <h3>Work in Progress</h3> 
 
-Spillover Effects in Panel Data Models with Low-Rank Unobserved Heterogeneity
+Social Interactions under Cluster Dependance, with <a href="https://amandri.github.io" target="_blank">Amedeo Andriollo</a> 

@@ -12,7 +12,8 @@ toc:
 
 <h4>Employment</h4>
 <ul style="“list-style-type:square"> 
-<li>2017- present: Assistant Professor in Economics, University of Warwick</li>
+<li>2024-Present: Lecturer in Economics, University of Edinburgh</li>
+<li>2017- 2024: Lecturer in Economics, University of Warwick</li>
 <li>Spring 2021: Visiting Scholar, Boston College</li>
 </ul>
 
