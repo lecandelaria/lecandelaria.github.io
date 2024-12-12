@@ -33,7 +33,7 @@ nav_order: 1
 </ul>
 
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 1ex;">
-<li><a href="../papers/SemNet_2024.pdf" target="_blank">A Semiparametric Network Formation Model with Unobserved Linear Heterogeneity</a></li>
+<li><a href="/Research/" target="_blank">A Semiparametric Network Formation Model with Unobserved Linear Heterogeneity</a></li>
    <ul style="list-style-type: none; padding-left: 0; margin-bottom: 1ex;">
       <li style="margin-bottom: 1.5ex;"><em>Revise and Resubmit, Econometrics Journal</em></li>
       <li>Abstract:</li>
